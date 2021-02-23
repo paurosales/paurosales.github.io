@@ -12,14 +12,11 @@ output:
   postcards::trestles
 ---
  
-## Bio
+## About Me
+Born in Guadalajara, México in 2001.
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Currently studying an undergraduate degree on Genomic Science at Universidad Nacional Autónoma de México (UNAM). Interested in Genomic Medicine and Data Science.   
+
 
 ## Education
 
@@ -29,4 +26,4 @@ Undergraduate Genomic Science student | August 2019 - Present
 
 ## Experience
 
-**Luis Covarrubias Lab** | Institudo de Biotecnología - UNAM | January 2020 - Present
+**Luis Covarrubias Lab** | Instituto de Biotecnología (IBT) - UNAM | January 2020 - Present
