@@ -13,7 +13,7 @@ output:
 ---
  
 ## About Me
-Born in Guadalajara, México in 2001.
+Born on April 21st, 2001, in Guadalajara, México.
 
 Currently studying an undergraduate degree on Genomic Science at Universidad Nacional Autónoma de México (UNAM). Interested in Genomic Medicine and Data Science.   
 
