@@ -1,19 +1,32 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Paulina Rosales-Becerra"
+image: "mi_foto.jpeg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/paurosalesb"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/paurosales"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "prosales@lcg.unam.mx"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+## Bio
+
+Frank Hermosillo studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
+
+## Education
+
+**Universidad Nacional Autónoma de México** | Morelos, MX
+
+Undergraduate Genomic Science student | August 2019 - Present
+
+## Experience
+
+**Luis Covarrubias Lab** | Institudo de Biotecnología - UNAM | January 2020 - Present
