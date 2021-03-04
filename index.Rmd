@@ -1,6 +1,6 @@
 ---
 title: "Paulina Rosales-Becerra"
-image: "mi_foto2.jpeg"
+image: "mi_foto.jpeg"
 links:
   - label: Twitter
     url: "https://twitter.com/paurosalesb"
