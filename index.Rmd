@@ -15,8 +15,7 @@ output:
 ## About Me
 Born on April 21st, 2001, in Guadalajara, México.
 
-Currently studying an undergraduate degree on Genomic Science at Universidad Nacional Autónoma de México (UNAM). Interested in Genomic Medicine and Data Science.   
-
+Undergraduate student with expertise using bioinformatic tools and molecular biology techniques, interested in Epigenetics and Single-cell analyses.
 
 ## Education
 
