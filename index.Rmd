@@ -13,9 +13,15 @@ output:
 ---
  
 ## About Me
+<<<<<<< HEAD
 Born on April 21st, 2001, in Guadalajara, Mexico.
 
 Undergraduate student at the Undergraduate Program of Genomic Sciences (LCG) with expertise using bioinformatic tools and molecular biology techniques, interested in Epigenetics and Single-cell analyses.
+=======
+Born on April 21st, 2001, in Guadalajara, México.
+
+Undergraduate student with expertise using bioinformatic tools and molecular biology techniques, interested in Epigenetics and Single-cell analyses.
+>>>>>>> c978135019aae29a35da236bbebad232b17eedf9
 
 ## Education
 
