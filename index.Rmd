@@ -1,6 +1,6 @@
 ---
 title: "Paulina Rosales-Becerra"
-image: "mi_foto2.jpeg"
+image: "mi_foto.jpeg"
 links:
   - label: Twitter
     url: "https://twitter.com/paurosalesb"
@@ -13,17 +13,16 @@ output:
 ---
  
 ## About Me
-Born on April 21st, 2001, in Guadalajara, México.
+Born on April 21st, 2001, in Guadalajara, Mexico.
 
-Currently studying an undergraduate degree on Genomic Science at Universidad Nacional Autónoma de México (UNAM). Interested in Genomic Medicine and Data Science.   
-
+Undergraduate student at the Undergraduate Program of Genomic Sciences (LCG) with expertise using bioinformatic tools and molecular biology techniques, interested in Epigenetics and Single-cell analyses.
 
 ## Education
 
-**Universidad Nacional Autónoma de México** | Morelos, MX
+**National Autonomous University of Mexico** | Morelos, MX
 
-Undergraduate Genomic Science student | August 2019 - Present
+Undergraduate Genomic Sciences student | August 2019 - Present
 
 ## Experience
 
-**Luis Covarrubias Lab** | Instituto de Biotecnología (IBT) - UNAM | January 2020 - Present
+**Luis Covarrubias Lab** | Institute of Biotechnology (IBT) - UNAM | January 2020 - Present
